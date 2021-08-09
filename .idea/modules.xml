@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/J2eeModule01/J2eeModule01.iml" filepath="$PROJECT_DIR$/J2eeModule01/J2eeModule01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioModule01/ioModule01.iml" filepath="$PROJECT_DIR$/ioModule01/ioModule01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2eeModule02/j2eeModule02.iml" filepath="$PROJECT_DIR$/j2eeModule02/j2eeModule02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2eeModule03/j2eeModule03.iml" filepath="$PROJECT_DIR$/j2eeModule03/j2eeModule03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2eeModule04/j2eeModule04.iml" filepath="$PROJECT_DIR$/j2eeModule04/j2eeModule04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2eeModule05/j2eeModule05.iml" filepath="$PROJECT_DIR$/j2eeModule05/j2eeModule05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2eeModule06/j2eeModule06.iml" filepath="$PROJECT_DIR$/j2eeModule06/j2eeModule06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2eeModule07/j2eeModule07.iml" filepath="$PROJECT_DIR$/j2eeModule07/j2eeModule07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j2eeModule08/j2eeModule08.iml" filepath="$PROJECT_DIR$/j2eeModule08/j2eeModule08.iml" />
+    </modules>
+  </component>
+</project>
